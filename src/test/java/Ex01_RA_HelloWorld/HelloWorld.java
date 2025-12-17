@@ -1,3 +1,5 @@
+package Ex01_RA_HelloWorld;
+
 import io.restassured.RestAssured;
 
 public class HelloWorld {

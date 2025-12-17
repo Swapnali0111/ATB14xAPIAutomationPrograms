@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Swapnali/IdeaProjects/ATB14xAPIAutomationPrograms">
+        <classes>
+            <class name="Ex03_TestNG_AllureReoprt.Lab06_TestNG_AllureReport_testcases">
+                <methods>
+                    <include name="test_GET_POSITIVE_TC1"/>
+                    <include name="test_GET_NEGATIVE_TC2"/>
+                    <include name="test_GET_NEGATIVE_TC3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
